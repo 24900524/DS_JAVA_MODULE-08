@@ -1,4 +1,5 @@
 # Ex12 Add Elements from an Array into a TreeSet
+## date : 31.07.2026
 ## AIM:
 To write a Java program that adds elements from an array into a TreeSet and displays the elements in sorted order.
 ## Algorithm
